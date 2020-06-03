@@ -1,0 +1,10 @@
+{
+  "error": {
+    "code": "InvalidAuthenticationToken",
+    "message": "Access token has expired.",
+    "innerError": {
+      "request-id": "f6d08782-46b7-4c15-9c00-8f751c705efc",
+      "date": "2020-06-02T22:26:53"
+    }
+  }
+}
