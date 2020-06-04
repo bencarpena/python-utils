@@ -1,0 +1,49 @@
+,Intune Details
+@odata.context,https://graph.microsoft.com/v1.0/$metadata#deviceManagement/managedDevices/$entity
+activationLockBypassCode,
+androidSecurityPatchLevel,
+azureADDeviceId,950319dc-074e-49e4-8d88-4e9751fc562c
+azureADRegistered,True
+complianceGracePeriodExpirationDateTime,9999-12-31T23:59:59.9999999Z
+complianceState,compliant
+configurationManagerClientEnabledFeatures,
+deviceActionResults,[]
+deviceCategoryDisplayName,CVX_MANAGED_WINDOWS
+deviceEnrollmentType,windowsAzureADJoin
+deviceHealthAttestationState,
+deviceName,HoloLens-EM12E
+deviceRegistrationState,registered
+easActivated,False
+easActivationDateTime,0001-01-01T00:00:00Z
+easDeviceId,
+emailAddress,hl-itc-mobility-007@chevron.com
+enrolledDateTime,2020-04-14T18:17:12.7901685Z
+exchangeAccessState,none
+exchangeAccessStateReason,none
+exchangeLastSuccessfulSyncDateTime,0001-01-01T00:00:00Z
+freeStorageSpaceInBytes,0
+id,7767e52c-badd-4858-b043-182b21dd1ab8
+imei,
+isEncrypted,True
+isSupervised,False
+jailBroken,Unknown
+lastSyncDateTime,2020-06-02T20:45:24.770233Z
+managedDeviceName,hl-itc-mobility-007_WindowsHolographic_4/14/2020_6:17 PM
+managedDeviceOwnerType,company
+managementAgent,mdm
+manufacturer,Microsoft Corporation
+meid,
+model,HoloLens
+operatingSystem,Windows Holographic for Business
+osVersion,10.0.17763.1217
+partnerReportedThreatState,unknown
+phoneNumber,
+remoteAssistanceSessionErrorDetails,
+remoteAssistanceSessionUrl,
+serialNumber,000077771556
+subscriberCarrier,
+totalStorageSpaceInBytes,-1890582528
+userDisplayName,Service Account - hl-itc-mobility-007
+userId,4f913b7e-8e46-438b-ac4d-7d445bff38e0
+userPrincipalName,hl-itc-mobility-007@chevron.com
+wiFiMacAddress,949AA91FF990
